@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.jokerd.opensocial.facebook
+Bundle-SymbolicName: org.jokerd.opensocial.facebook
+Bundle-Version: 0.1.0
+ExecutionEnvironment: J2SE-1.6
+Import-Package: org.ubimix.commons.cursor;version="1.2.1",
+ org.ubimix.commons.io;version="1.2.1",
+ org.ubimix.commons.json;version="1.2.1",
+ org.ubimix.commons.json.ext;version="1.2.1",
+ org.ubimix.commons.json.rpc;version="1.2.1",
+ org.jokerd.opensocial.api.model;version="0.1.0",
+ org.jokerd.opensocial.api.model.ext;version="0.1.0",
+ org.jokerd.opensocial.cursors,
+ org.jokerd.opensocial.oauth
+
